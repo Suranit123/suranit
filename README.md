@@ -14,8 +14,19 @@ Additionally, being a tester helps me apply empathy and consideration for users.
   </p>
 </div>
 
+<div>
+  <h2>Tester Skills</h2>
+  <ul>
+    <li>Test Cases</li>
+    <li>Test Plan</li>
+    <li>Test Reprot</li>
+    <li>Senario</li>
+    <li>Log Defect</li>
+  </ul>
+</div>
+
 <div align="left">
-  <h2>Technical Skills</h2>
+  <h2>Programing Language & Tools</h2>
   <p align="left">
     <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
     <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
@@ -58,5 +69,23 @@ Additionally, being a tester helps me apply empathy and consideration for users.
 <div>
   <h2>Log Defect example</h2>
   <a href="https://docs.google.com/spreadsheets/d/1gaCxNsdm_PHFugCU9lB1MH4bTT_nK9uP/edit?gid=1619800925#gid=1619800925" target="_blank">
-  Click for view log defect example
+  Click to view log defect example
+</div>
+
+<div>
+  <h2>Test Report example</h2>
+  <a href="https://docs.google.com/spreadsheets/d/1gaCxNsdm_PHFugCU9lB1MH4bTT_nK9uP/edit?gid=1619800925#gid=1619800925" target="_blank">
+  Click to view test report example
+</div>
+
+<div>
+  <h2>Senario example</h2>
+  <a href="https://docs.google.com/spreadsheets/d/1gQGRssjSkumEapMIdtCc0eCw7FWzjDLi/edit?gid=81543395#gid=81543395" target="_blank">
+  Click to view senario example
+</div>
+
+<div>
+  <h2>Training Course</h2>
+  <a href="https://drive.google.com/file/d/1Y1csjQaTYvjW62MfVYd-kqdwO0JncpDE/view" target="_blank">
+  Click to view the certificate
 </div>
